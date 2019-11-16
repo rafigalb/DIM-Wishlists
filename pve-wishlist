@@ -1,5 +1,4 @@
 // -----panda_pve-----
-// MODIFIED BY OOZEGOOSE
 
 //*****  u/pandapaxxy 's Penumbra weapons breakdown - PvE edition, #dimwishlist edition:panda_penumbra_pve.txt:https://gist.githubusercontent.com/48klocs/d43e5087abeef3bf6a59ef0bef262566/raw/bf51bfdfe84d2e6093a9ed1c5a38c16d89d1b5ed/panda_penumbra_pve.txt
 // u/pandapaxxy 's Penumbra weapons breakdown - PvE edition
@@ -9500,7 +9499,5 @@ dimwishlist:item=4230993599&perks=436053704,2349202967,2590710093,3913600130
 dimwishlist:item=4230993599&perks=938542991,2349202967,1749209109,3913600130
 dimwishlist:item=4230993599&perks=938542991,2349202967,2590710093,3913600130
 
-//----------------------------------------
-//----------OOZEGOOSE ADDITIONS-----------
-//----------------------------------------
+// Additions of missing weapon data
 
