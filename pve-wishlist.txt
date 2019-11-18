@@ -1,5 +1,5 @@
 // pandapaxxy's PVE recommendations taken from 48klocs' wishlist files at https://github.com/48klocs/dim-wish-list-sources.
-// ALL CREDIT GOES TO pandapaxxy and 48klocs.
+// ALL CREDIT GOES TO pandapaxxy, 48klocs, and dcaslin (https://d2checklist.com).
 
 // FORSAKEN (SEASON 4) ------------------------------------------------------------------
 
@@ -3750,6 +3750,34 @@ dimwishlist:item=1644160541&perks=436053704,2349202967,1749209109,3913600130
 dimwishlist:item=1644160541&perks=938542991,52780822,1749209109,3913600130
 dimwishlist:item=1644160541&perks=2827049491,52780822,1749209109,3913600130
 dimwishlist:item=1644160541&perks=436053704,52780822,1749209109,3913600130
+
+// FORSAKEN (SEASON 4) EXTRAS ------------------------------------------------------------------------------
+
+//sleepless
+dimwishlist:item=3740842661&perks=3525010810,2822142346,3300816228,1275731761
+dimwishlist:item=3740842661&perks=1441682018,2822142346,3300816228,1275731761
+
+//sleepless (curated)
+dimwishlist:item=3740842661&perks=3525010810,2822142346,706527188,3977735242
+
+//twilight oath (pve)
+dimwishlist:item=3297863558&perks=1840239774,3142289711,247725512,3400784728
+
+// Play of the game
+dimwishlist:item=195440257&perks=3301904089,981914802,2869569095
+
+// Swarm of the Raven
+dimwishlist:item=1972985595&perks=3301904089,981914802,2869569095
+
+// Through fire and flood
+dimwishlist:item=301362381&perks=3301904089,981914802,2869569095
+
+// Acantha-D
+dimwishlist:item=896923850&perks=3301904089
+
+// Acantha-D XK8434
+dimwishlist:item=1757129747&perks=3301904089,981914802,2869569095
+
 
 // SEASON OF THE FORGE (SEASON 5) -------------------------------------------------------------------------
 
