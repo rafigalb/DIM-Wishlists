@@ -4,7 +4,7 @@ I compiled all of pandapaxxy's recommendations using 48klocs' files at https://g
 
 ## How to use
 
-Copy the link for the raw file for each (PvE and PvP) and paste it in the settings section in https://www.d2checklist.com/gear/weapons.
+Copy the link for the **raw** file for each (PvE and PvP) and paste it in the settings section in https://www.d2checklist.com/gear/weapons.
 
 For convenience here are the links for the raw files:
 
