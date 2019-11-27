@@ -1,5 +1,5 @@
-// pandapaxxy's PVE recommendations taken from 48klocs' wishlist files at https://github.com/48klocs/dim-wish-list-sources.
-// ALL CREDIT GOES TO pandapaxxy, 48klocs, and dcaslin (https://d2checklist.com).
+// u/pandapaxxy and u/Mercules904 PVE recommendations taken from 48klocs' wishlist files at https://github.com/48klocs/dim-wish-list-sources.
+// ALL CREDIT GOES TO u/pandapaxxy, u/Mercules904, 48klocs, and u/dweezil22 (https://d2checklist.com).
 
 //-----------------------------------------------------------------------------------------
 // FORSAKEN (SEASON 4) ------------------------------------------------------------------
