@@ -13599,6 +13599,14 @@ dimwishlist:item=3369545945&perks=1840239774,3230963543,1178686995,3425386926#no
 dimwishlist:item=3369545945&perks=839105230,3230963543,1178686995,3425386926#notes:pandapaxxy Shadowkeep PvE
 dimwishlist:item=3369545945&perks=4090651448,3230963543,1178686995,3425386926#notes:pandapaxxy Shadowkeep PvE
 
+// Heretic (PvE)
+//notes:Mercules904 (pretty good PvE) - "Honestly a weapon with great possibilities if the heavy weapon classes ever get reworked."
+dimwishlist:item=3067821200&perks=981914802,3796465595,3523296417,1275731761
+
+// Heretic (PvE; curated)
+//notes:Mercules904 (pretty good PvE; curated) - "Honestly a weapon with great possibilities if the heavy weapon classes ever get reworked."
+dimwishlist:item=3067821200&perks=3525010810,3492396210,3523296417,1275731761
+
 //-----------------------------------------------------------------------------------------------------------------------
 // GARDEN OF SALVATION RAID ---------------------------------------------------------------------------------------------
 //------------------------------------------------------------------------------------------------------------------------
