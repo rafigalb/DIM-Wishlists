@@ -13599,6 +13599,9 @@ dimwishlist:item=3369545945&perks=1840239774,3230963543,1178686995,3425386926#no
 dimwishlist:item=3369545945&perks=839105230,3230963543,1178686995,3425386926#notes:pandapaxxy Shadowkeep PvE
 dimwishlist:item=3369545945&perks=4090651448,3230963543,1178686995,3425386926#notes:pandapaxxy Shadowkeep PvE
 
+//BrayTech Werewolf (curated)
+dimwishlist:item=528834068&perks=3250034553,1968497646,2387244414,2458213969
+
 // Heretic (PvE)
 //notes:Mercules904 (pretty good PvE) - "Honestly a weapon with great possibilities if the heavy weapon classes ever get reworked."
 dimwishlist:item=3067821200&perks=981914802,3796465595,3523296417,1275731761
