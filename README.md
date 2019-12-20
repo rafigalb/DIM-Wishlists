@@ -4,6 +4,8 @@ I compiled recommendations from u/pandapaxxy and u/Mercules904 via 48klocs' file
 
 ## How to use
 
+**NOTE: These lists are now being used by default at D2 Checklist.**
+
 Copy the link for the **raw** file for each (PvE and PvP) and paste it in the settings section in https://www.d2checklist.com/gear/weapons.
 
 For convenience here are the links for the raw files:
